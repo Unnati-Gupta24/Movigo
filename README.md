@@ -1,4 +1,4 @@
-# Moviko
+# Movigo
 
 This application contains a Backend server written in Golang.
 It performs CRUD operations to create, read, update and delete movies.
