@@ -8,7 +8,7 @@ How to Use??
 
 Clone the repository using following command in your terminal.
 
-````** git clone https://github.com/Unnati-Gupta24/Moviko.git````
+````** git clone https://github.com/Unnati-Gupta24/Movigo.git````
 
 Run the following command in your terminal.
 
